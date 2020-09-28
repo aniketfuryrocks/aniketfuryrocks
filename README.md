@@ -22,6 +22,6 @@ Systems programming is the field which keeps me motivated about software develop
 
 **server os of choice** : linux > debian > ubuntu
 
-I want to talk more about stuff like [NIO in JAVA](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html), JavaFX, OpenGl/Vulkan, Embedded Systems and more but it is already getting very lengthy. Call me on a coffee and we'll discuss more.
+I want to talk more about stuff like [NIO in Java](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html), JavaFX, OpenGl/Vulkan, Embedded Systems and more but it is already getting very lengthy. Call me on a coffee and we'll discuss more.
 
 Btw, check out my other profile [eAdded](https://github.com/eadded) as well.
