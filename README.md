@@ -1,16 +1,25 @@
-### Hi, I am Aniket 
+### Hi, I am Aniket 👻
 
-<!--
-**aniketfuryrocks/aniketfuryrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selftaught Software developer passionate about **opensource**, **systems programming** and **full stack web development**. I want to show the world that age and degrees don't count as the necessity to software development, hence *17 year old trying to change the world through code*. I love coding in **rust**, **js/ts**, **c++/c**, **java** (only if it is necessary, bcz gc 🤢).
 
-Here are some ideas to get you started:
+**Frontend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I preffer plain **JS/TS** for small projects but **svelte** or **react** for larger projects. Currently I am experimenting with **wasm(rust)**
+
+**Backend**
+
+Defaulting to **NodeJS**, I use **serverless lambda(AWS)** functions accompanied with **dynamodb** as the backbone of my projects. To keep the cost as low as possible I developed [FireJSX](https://www.npmjs.com/package/firejsx) that enables me to **SSR** my page on events such as a new article in a blog site and pipe it to a **S3** bucket which acts as a https server. Hence doing task only when required, keeping cost low. I preffer using **rust** for performance critical tasks.
+
+For complex websites I'll preffer using an **ec2 instance**(full featured server) accompanied with **MongoDB**/**PostgreSQL**, where rust or java act as the server software sitting behind **nginx reverse proxy**
+
+**Systems Programming**
+
+Systems programming is the field which keeps me motivated about software development, because I am eagre to learn and the more I learn about systems the more I realise of how less I know. I finally moved from **C/C++** to **rust**, using [FFI](https://doc.rust-lang.org/nomicon/ffi.html) whenever necessary. 
+
+**vcs of choice** : git > github
+
+**desktop os of choice** : linux > arch
+
+**server os of choice** : linux > debin > ubuntu
+
+I want to talk more about stuff like [NIO in JAVA](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html), JavaFX, OpenGl/Vulkan, Embedded Systems and more but it is already getting very lengthy. Call me on a coffee and we'll discuss more.
