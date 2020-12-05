@@ -17,6 +17,7 @@ For complex websites I'll prefer using an **ec2 instance**(full-featured server)
 Systems programming is the field that keeps me motivated about software development because I am eager to learn, and the more I learn about systems the more I realize how little I know. I finally moved from **C/C++** to **Rust**, using [FFI](https://doc.rust-lang.org/nomicon/ffi.html) whenever necessary. 
 
 **Android**
+
 Though it's been a long time, since I have touched android development as I hate its choice of java and inefficient stack, yet I look forward to do some progress in it to increase my knowledge base. I created [UniversalShare](https://play.google.com/store/apps/details?id=com.eadded.universalshare&hl=en_US) which implements my multi-thread asynchronous HTTP server. I plan to create a framework to ease the development of desktop, web, android, and ios apps sharing one codebase using rust. 
 
 **vcs of choice** : git > github
@@ -27,4 +28,4 @@ Though it's been a long time, since I have touched android development as I hate
 
 I want to talk about stuff like [NIO in Java](https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html), JavaFX, OpenGL/Vulkan/Qt/GTK+, Embedded Systems, and more but it is already getting very lengthy. Invite me for a coffee and we'll discuss more.
 
-Btw, check out my other profile [eAdded](https://github.com/eadded) as well.
+Btw, check out my other profile [eAdded](https://github.com/eadded) too.
