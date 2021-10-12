@@ -1,6 +1,6 @@
 ### Hi, I am Aniket
 
-Selftaught Software developer passionate about **opensource**, **systems programming** and **full stack web development**. I want to show the world that age and degrees don't count as the necessity to software development, hence *17 year old trying to change the world through code*. I code in **rust**, **js/ts**, **c/c++**, **java/javafx**, **html/css**, **go**, **dart/flutter**.
+Selftaught Software developer passionate about **opensource**, **systems programming** and **full stack web development**. I want to show the world that age and degrees don't count as the necessity to software development, hence *18 year old trying to change the world through code*. I code in **rust**, **js/ts**, **c/c++**, **java/javafx**, **html/css**, **go**, **dart/flutter**.
 
 **Frontend**
 
