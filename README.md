@@ -13,8 +13,8 @@ Founding engineer at [Rome Protocol](https://www.rome.builders/) ($10M raised). 
 - Cooking a mix to make blockchain accessible using AI
 
 **Open Source Work**
-- [gxi-rs](https://github.com/aniketfuryrocks/gxi-rs): Cross-platform UI framework  
-- [lite-rpc](https://github.com/aniketfuryrocks/lite-rpc): Lightweight RPC system  
+- [gxi-rs](https://github.com/gxi-rs/gxi): Cross-platform UI framework  
+- [lite-rpc](https://github.com/blockworks-foundation/lite-rpc/): Lightweight RPC system  
 - [FireJSX](https://github.com/aniketfuryrocks/firejsx): React SSR framework
 
 More here → [aniketprajapati.me](https://aniketprajapati.me)
