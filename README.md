@@ -6,11 +6,10 @@ Founding engineer at [Rome Protocol](https://www.rome.builders/) ($10M raised). 
 - Build scalable, production-ready systems fast  
 - Lead engineering teams and deliver sustainable, clean code  
 - Architect blockchain solutions with deep expertise in Solana
-- Angel invest
 
-**Highlights**
-- Built and sold a $100k Jupiter competitor  
-- Cooking a mix to make blockchain accessible using AI
+**Recently**
+- Built and sold a $100k Jupiter competitor
+- Rewiring solana-svm to reduce node requirements and abstract specialized use cases over bank.
 
 **Open Source Work**
 - [gxi-rs](https://github.com/gxi-rs/gxi): Cross-platform UI framework  
